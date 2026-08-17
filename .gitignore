@@ -364,3 +364,6 @@ FodyWeavers.xsd
 
 data/
 .vscode
+
+Moving-Least-Squares-GPU.sln
+Moving-Least-Squares-GPU.vcxproj
